@@ -1,3 +1,4 @@
+A simple React app created using Create React App command
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
